@@ -105,6 +105,9 @@ strong {
     color: #143774;
 }
 
+nav {
+    font-family: 'Montserrat', sans-serif;
+}
 
 /* =================
 Layout
@@ -172,7 +175,7 @@ nav li {
 nav a {
     text-decoration: none;
     color: #707070;
-    font-weight: 700;
+    font-weight: 600;
     padding: .25em 0;
 }
 
@@ -274,4 +277,8 @@ nav a:focus {
 
 .widget-image {
     order: -1;
+}
+
+.widget-recent-post-title {
+    margin-top: 1em;
 }
