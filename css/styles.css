@@ -6,7 +6,7 @@ font-family: 'Ubuntu', sans-serif;
 
 body {
     margin: 0;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 1.125rem;
     font-weight: 300;
 }
@@ -30,7 +30,7 @@ Typography
 h1, 
 h2,
 h3 {
-    font-family: 'Lora', serif;
+    font-family: 'Montserrat', serif;
     font-weight: 400;
     color: #143774;
     margin-top: 0;
@@ -97,7 +97,7 @@ strong {
 }
 
 .widget-title {
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
 }
 
